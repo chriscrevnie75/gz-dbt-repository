@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: gz_raw_data_chriss
+    tables:
+      - name: gz_raw_product
+      - name: raw_gz_sales
+      - name: raw_gz_ship
